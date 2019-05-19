@@ -4,13 +4,13 @@
         {"id": 1, "shoppingItemType": "dairy", "item": "Leche", "price_per_unit": "35", "unitType": "unitary", "quantity": "2"}, 
         {"id": 2, "shoppingItemType": "wheat", "item": "Pan", "price_per_unit": "117", "unitType": "unitary", "quantity": "1"},
         {"id": 3, "shoppingItemType": "meat", "item": "Jamón", "price_per_unit": "", "unitType": "gr", "quantity": "300"},
-        {"id": 4, "shoppingItemType": "dairy", "item": "Queso", "price_per_unit": "", "unitType": "gr", "quantity": "200"},
+        {"id": 4, "shoppingItemType": "dairy", "item": "Queso", "price_per_unit": "", "unitType": "gr", "quantity": "200"}
       ]
     },
     { "id": 2, "title": "Farmacia", "shoppingItems": [ 
         {"id": 1, "shoppingItemType": "pharmacy", "item": "Perifar flex 600", "price_per_unit": "200", "unitType": "unitary", "quantity": "2"}, 
         {"id": 2, "shoppingItemType": "pharmacy", "item": "Magnesio 100caps", "price_per_unit": "600", "unitType": "unitary", "quantity": "1"}, 
-        {"id": 3, "shoppingItemType": "pharmacy", "item": "Desloratadina 30comp", "price_per_unit": "300", "unitType": "unitary", "quantity": "2"},
+        {"id": 3, "shoppingItemType": "pharmacy", "item": "Desloratadina 30comp", "price_per_unit": "300", "unitType": "unitary", "quantity": "2"}
       ]
     },
     { "id": 3, "title": "Feria", "shoppingItems": [ 
@@ -18,8 +18,8 @@
         {"id": 2, "shoppingItemType": "meat", "item": "Milanesas de pollo", "price_per_unit": "", "unitType": "unitary", "quantity": "12"}, 
         {"id": 3, "shoppingItemType": "meat", "item": "Milanesas de carne", "price_per_unit": "", "unitType": "unitary", "quantity": "6"},
         {"id": 4, "shoppingItemType": "fruit", "item": "Bananas", "price_per_unit": "", "unitType": "kg", "quantity": "6.5"},
-        {"id": 5, "shoppingItemType": "fruit", "item": "Mandarinas", "price_per_unit": "", "unitType": "kg", "quantity": "3"},
+        {"id": 5, "shoppingItemType": "fruit", "item": "Mandarinas", "price_per_unit": "", "unitType": "kg", "quantity": "3"}
       ]
     }
-  ],
+  ]
 }
